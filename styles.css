@@ -4,21 +4,21 @@ body
   background-color: #FAFAFA;
 }
 
-.title 
+.main 
 {
   width: 100%;
   text-align: center;
   margin-top: 70px;
 }
 
-.title h1 
+.main h1 
 {
   font-family: futura, 'Gibson', sans-serif, futura, helvetica, arial, sans-serif;
   font-weight: bold;
   font-size: 96px;
 }
 
-.title h1 a 
+.main h1 a 
 {
   color: #444444;
   text-decoration: none;
@@ -32,8 +32,8 @@ body
 
 .separator
 {
-  margin-bottom: 40px;
-  padding-bottom: 40px;
-  width: 100%;
+  margin: auto;
+  padding-top: 20px;
+  width: 50%;
   border-bottom: 1px solid #EAEAEA;
 }
