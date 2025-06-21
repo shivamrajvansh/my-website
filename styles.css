@@ -37,3 +37,14 @@ body
   width: 50%;
   border-bottom: 1px solid #EAEAEA;
 }
+
+.social 
+{
+    margin-top: 20px;
+}
+
+.social i 
+{
+    color: #888888;
+    padding: 5px;
+}
